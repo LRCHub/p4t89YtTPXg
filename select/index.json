@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "They Sayin'",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-02-10T12:29:07.847263Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "They Sayin'",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_They_Sayin'_KEIJU.txt"
+    }
+  ]
+}
